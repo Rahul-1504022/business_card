@@ -11,7 +11,7 @@ const Button = () => {
 
             <button type="button" style={{ backgroundColor: "white", padding: "20px 50px", borderRadius: "6px" }}>
                 <img src="assets/img/linkedin.png" width="15px" height="15px" style={{ marginRight: "10px" }} />
-                <a href="#" style={{ textDecoration: "none", fontSize: "17px", color: "black" }}>
+                <a href="https://www.linkedin.com/in/shahriar-mridha-1088bb191/" target="_blank" style={{ textDecoration: "none", fontSize: "17px", color: "black" }}>
                     LinkedIn</a>
             </button>
         </div>

@@ -2,14 +2,10 @@ import React from "react";
 
 const Interest = () => {
     return (
-        <div className="container">
+        <div className="container interest">
             <h4>Interests</h4>
-            <ul className="interest_list">
-                <li>MERN Stack</li>
-                <li>Agile Metohodologies</li>
-                <li>Visual Studio Code</li>
-                <li>Github Lifecycle</li>
-            </ul>
+            <hr style={{ color: "white" }} />
+            <p>MERN Stack,Agile Metohodologies,Visual Studio Code,Github Lifecycle</p>
         </div>
     )
 }
